@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FFflplzQUb8=",
+  "dgSpecHash": "6Ff70IOqqNo=",
   "success": true,
   "projectFilePath": "/Users/venixcador/Developer/ai-document-assistant/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/venixcador/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
     "/Users/venixcador/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/venixcador/.nuget/packages/microsoft.build.framework/18.0.2/microsoft.build.framework.18.0.2.nupkg.sha512",
     "/Users/venixcador/.nuget/packages/microsoft.codeanalysis.analyzers/3.11.0/microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",

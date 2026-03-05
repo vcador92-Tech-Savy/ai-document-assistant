@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PMi7SJbi+IM=",
+  "dgSpecHash": "vNgKCaz03mI=",
   "success": true,
   "projectFilePath": "/Users/venixcador/Developer/ai-document-assistant/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/venixcador/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512"
+  ],
   "logs": []
 }

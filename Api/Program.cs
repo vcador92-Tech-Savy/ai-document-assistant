@@ -1,5 +1,7 @@
 using Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
+using Application.Abstractions.Persistence;
+using Application.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite("Data Source=app.db"));
+builder.Services.AddScoped<IDocumentRepository, DocumentRepository>();
+builder.Services.AddScoped<DocumentService>();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

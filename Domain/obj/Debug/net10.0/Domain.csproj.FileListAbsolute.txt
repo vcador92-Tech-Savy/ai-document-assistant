@@ -9,3 +9,4 @@
 /Users/venixcador/Developer/ai-document-assistant/Domain/obj/Debug/net10.0/refint/Domain.dll
 /Users/venixcador/Developer/ai-document-assistant/Domain/obj/Debug/net10.0/Domain.pdb
 /Users/venixcador/Developer/ai-document-assistant/Domain/obj/Debug/net10.0/ref/Domain.dll
+/Users/venixcador/Developer/ai-document-assistant/Domain/obj/Debug/net10.0/Domain.sourcelink.json
